@@ -1,0 +1,9 @@
+# The Hill Shore
+
+> The Hill Shore — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/thehillshore/
+
+## Pages
+
+- [The Hill Shore](https://singaporenewproperty.github.io/thehillshore/): The Hill Shore property information.
